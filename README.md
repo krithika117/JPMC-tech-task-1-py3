@@ -4,7 +4,7 @@
 Interface with a stock price data feed
 Interface with a stock price data feed and set up your system for analysis of the data
 Practical skills you will gain from working on this module:
-> Financial Data| Python | Git | Basic Programming
+> Financial Data | Python | Git | Basic Programming
 
 2
 Use JPMorgan Chase frameworks and tools
